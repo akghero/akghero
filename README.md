@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Learning+To+Code...;Open+Source+Contributor;Aspiring+Beginner+In+Computer+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Learning+To+Code;Open+Source+Contributor;Aspiring+Beginner+In+Computer+Science" alt="Typing SVG" />
 </p>
 
 ---
