@@ -43,8 +43,8 @@
 ---
 
 ### 📬 Let's Connect!
-- 💬 Ask me about **Python, C++, ML, or studying abroad**
-- 📫 Reach me at: **akghero212@gmail.com**
+- 💬 Ask me about **Python, C++, JavaScript, or studying abroad**
+- 📫 Reach me at: **aryanmahajan247@gmail.com**
 - 📷 [Instagram](https://instagram.com/aryan_rn9)
 
 ---
