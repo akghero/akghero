@@ -45,7 +45,7 @@
 ### 📬 Let's Connect!
 - 💬 Ask me about **Python, C++, JavaScript, or studying abroad**
 - 📫 Reach me at: **aryanmahajan247@gmail.com**
-- 📷 [Instagram](https://instagram.com/kodeswithmahajan)
+- 📷 [Instagram](https://instagram.com/kodeswithmahajan) **kodeswithmahajan**
 
 ---
 
