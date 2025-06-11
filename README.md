@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on **Python and C++ Projects**
 - 🌱 Learning **Machine Learning** to blend with my software skills
 - 🎯 Preparing for the **IELTS** and planning to study in **Australia**
-- ⚡ Fun fact: I can code while vibing to Bhojpuri beats 😎
+- ⚡ Fun fact: I can code along vibing with Music 😎
 
 ---
 
